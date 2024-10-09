@@ -44,7 +44,7 @@
         "ID": "07",
         "NAME": "Emoji Guess Game",
         "image": "https://github.com/Anayaali2019/Appinfo-pridesoft/blob/main/ezgif-6-78b5696b88.jpg?raw=true",
-        "Description": "moji Guess Game, where fun meets creativity! 🎉This exciting puzzle game challenges you to guess compound words using just two emojis",
+        "Description": "Emoji Guess Game, where fun meets creativity! 🎉This exciting puzzle game challenges you to guess compound words using just two emojis",
         "Package": "com.pridesoft.emojigame"
     }
 ]
