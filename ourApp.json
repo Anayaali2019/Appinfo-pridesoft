@@ -40,5 +40,11 @@
         "image": "https://github.com/Anayaali2019/Appinfo-pridesoft/blob/main/PowerTradingSignal.jpg?raw=true",
         "Description": "🚀 Power Trading Signals 📈 Welcome to Power Trading Signals – your ultimate companion for trading with confidence! 💪 Whether you're a seasoned trader or just starting out, our app is designed to provide you with powerful trading signals for auto-suggested pairs.",
         "Package": "com.pridesofts.powertradingsignals"
+    }, {
+        "ID": "07",
+        "NAME": "Emoji Guess Game",
+        "image": "https://github.com/Anayaali2019/Appinfo-pridesoft/blob/main/ezgif-6-78b5696b88.jpg?raw=true",
+        "Description": "moji Guess Game, where fun meets creativity! 🎉This exciting puzzle game challenges you to guess compound words using just two emojis",
+        "Package": "com.pridesoft.emojigame"
     }
 ]
