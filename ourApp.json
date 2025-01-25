@@ -46,5 +46,12 @@
         "image": "https://github.com/Anayaali2019/Appinfo-pridesoft/blob/main/ezgif-6-78b5696b88.jpg?raw=true",
         "Description": " Emoji Guess Game, where fun meets creativity! 🎉This exciting puzzle game challenges you to guess compound words using just two emojis",
         "Package": "com.pridesoft.emojigame"
+    }, {
+        "ID": "08",
+        "NAME": "Red Box Daily",
+        "image": "https://github.com/Anayaali2019/Appinfo-pridesoft/blob/main/red-gift-box.png?raw=true",
+        "Description": "Red Packet Codes in One Place! Tired of searching multiple websites for Red Packet codes? Look no further! Our app brings all the latest Red Packet codes together in one convenient place.\n\nKey Features:\n- Easy Access: Find Red Packet codes from various websites instantly.\n- Regular Updates: Stay ahead with the latest codes.\n- User-Friendly: Simple, clean, and easy to navigate.\n- Save Time: No more endless searching.",
+        "Package": "com.PrideSoftsITsolutions.redPacket"
     }
+    
 ]
